@@ -4,8 +4,5 @@
 
 </div>
 <div align="center">
-
-![image](https://github.com/user-attachments/assets/2b221443-08dc-47f6-9084-8872fa747626)
-
-
+  https://github.com/user-attachments/assets/6473f1b3-3337-4094-9eb8-5397cdb67434
 </div>
